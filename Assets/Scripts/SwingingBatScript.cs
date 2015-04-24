@@ -6,6 +6,7 @@ public class SwingingBatScript : MonoBehaviour {
 	private Animator batAnimator;
 	public GameObject bat;
 	public AudioClip hit;
+	public float test;
 
 
 	// Use this for initialization
